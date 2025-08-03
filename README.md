@@ -29,7 +29,7 @@
 ║  • Frameworks    : TensorFlow · PyTorch · Scikit-learn         
 ║  • Vision & HCI  : OpenCV · MediaPipe · Vision Transformers    
 ║  • NLP & LLMs    : Transformers · Hugging Face · RAG           
-║  • DevOps & CI/CD: Git · Docker · AWS · Linux · Flask          
+║  • DevOps & CI/CD: Git  · AWS · Linux · Flask          
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
