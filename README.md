@@ -10,69 +10,48 @@
 ```
 
 ```text
-╔════════════════════════════════════════════════════════════════╗
-║ 🌟  J O F I N   J O J I  |  A I & ML ENGINEER | Innovator 🌟  
-╚════════════════════════════════════════════════════════════════╝
-            _Where Algorithms Meet Artistry & Impact_
+⚙ Skills
+Programming: Python · Java · C · SQL · HTML/CSS
 
-╔════════════════════════════════════════════════════════════════╗
-║ 🎯  MISSION                                                    
-╠════════════════════════════════════════════════════════════════╣
-║  ➤ Empower industries with intelligent AI solutions in CV, NLP
-║    and IoT for a smarter, sustainable tomorrow.                
-╚════════════════════════════════════════════════════════════════╝
+Frameworks: TensorFlow · PyTorch · Scikit-learn
 
-╔════════════════════════════════════════════════════════════════╗
-║ 🛠️  CORE EXPERTISE                                             
-╠════════════════════════════════════════════════════════════════╣
-║  • Programming   : Python · Java · C · SQL · HTML/CSS          
-║  • Frameworks    : TensorFlow · PyTorch · Scikit-learn         
-║  • Vision & HCI  : OpenCV · MediaPipe · Vision Transformers    
-║  • NLP & LLMs    : Transformers · Hugging Face · RAG           
-║  • DevOps & CI/CD: Git  · AWS · Linux · Flask          
-╚════════════════════════════════════════════════════════════════╝
+Vision & HCI: OpenCV · MediaPipe · Vision Transformers
 
-╔════════════════════════════════════════════════════════════════╗
-║ 🚀  FLAGSHIP PROJECTS                                         
-╠════════════════════════════════════════════════════════════════╣
-║  • AIRCO (Air Quality)                                        
-║    └─ 🏆 Best Paper @ ICIMRBE-25                              
-║    └─ 🌐 IoT Sensors + LSTM for real-time AQI forecasting     
-║    └─ 📊 Live analytics dashboard with actionable insights    
-║                                                                
-║  • Smart Attendance System                                     
-║    └─ 🤖 CNN-based face recognition (PyTorch & OpenCV)         
-║    └─ 🖥️  Web UI for seamless class roll-calls                   
-║                                                                  
-║  • Handwriting Translator                                       
-║    └─ ✍️  OCR pipeline (OpenCV) + LLM-driven translation         
-║    └─ 🔄  Multi-language support via Hugging Face APIs            
-║                                                                
-║  • Gesture-Controlled UI                                         
-║    └─ ✋ MediaPipe hand-tracking for intuitive HCI              
-║    └─ 🗣️  Voice assistant integration for natural interaction    
-╚════════════════════════════════════════════════════════════════╝
+NLP & LLMs: Transformers · Hugging Face · RAG
 
-╔════════════════════════════════════════════════════════════════╗
-║ 🏆  ACHIEVEMENTS                                                
-╠════════════════════════════════════════════════════════════════╣
-║  • 🥇 1st Place — AI & Robotics Product Expo                    
-║  • 🥈 2nd Place — BIS Environmental Tech EXPO                    
-║  • 📜 AWS Certified Cloud Practitioner (2025)                  
-║  • 💼 AI/ML Intern @ Dishasoft Info (Jun–Jul 2025)              
-║  • 🎓 Placement Coordinator @ ASIET (2024–Present)               
-╚════════════════════════════════════════════════════════════════╝
+DevOps & CI/CD: Git · AWS · Linux · Flask
 
-╔════════════════════════════════════════════════════════════════╗
-║ 🤝  LET’S CONNECT                                               
-╠════════════════════════════════════════════════════════════════╣
-║  • LinkedIn : linkedin.com/in/jofin-joji                        
-║  • Portfolio: https://jofinjojiportfolio.netlify.app                           
-║  • GitHub   : github.com/jofinjoji123                           
-║  • Email    : jofinjoji123@gmail.com                            
-╚════════════════════════════════════════════════════════════════╝
+🚀 Projects
+🔹 AIRCO — Smart Air Quality Intelligence
+🏆 Best Paper @ ICIMRBE-25
+🌐 IoT + LSTM for real-time AQI forecasting
 
-✨ _Crafted with passion & pixels — where code shapes the future_ ✨
+🔹 Smart Attendance System
+🤖 CNN-based Face Recognition (PyTorch & OpenCV)
+🖥️ Web UI for seamless class roll-calls
+
+🔹 Handwriting Translator
+✍️ OCR (OpenCV) + LLM-powered translation
+🔄 Multi-language support via Hugging Face APIs
+
+🔹 Gesture-Controlled UI
+✋ MediaPipe-based intuitive HCI
+🗣️ Voice assistant integration for natural interactions
+
+🏆 Achievements
+🥇 1st Place — AI & Robotics Product Expo
+🥈 2nd Place — BIS Environmental Tech EXPO
+📜 AWS Certified Cloud Practitioner (2025)
+💼 AI/ML Intern @ Dishasoft Info (Jun–Jul 2025)
+🎓 Placement Coordinator @ ASIET (2024–Present)
+
 ```
+
+🤝 Let’s Connect
+🔗 LinkedIn: linkedin.com/in/jofin-joji
+🌐 Portfolio: jofinjojiportfolio.netlify.app
+💻 GitHub: github.com/jofinjoji123
+📧 Email: jofinjoji123@gmail.com
+
 
 
