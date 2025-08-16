@@ -50,7 +50,6 @@ DevOps & CI/CD: Git · AWS · Linux · Flask
 🤝 Let’s Connect
 🔗 LinkedIn: linkedin.com/in/jofin-joji
 🌐 Portfolio: jofinjojiportfolio.netlify.app
-💻 GitHub: github.com/jofinjoji123
 📧 Email: jofinjoji123@gmail.com
 
 
