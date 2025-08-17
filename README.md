@@ -42,7 +42,6 @@ DevOps & CI/CD: Git · AWS · Linux · Flask
 🥇 1st Place — AI & Robotics Product Expo
 🥈 2nd Place — BIS Environmental Tech EXPO
 📜 AWS Certified Cloud Practitioner (2025)
-💼 AI/ML Intern @ Dishasoft Info (Jun–Jul 2025)
 🎓 Placement Coordinator @ ASIET (2024–Present)
 
 ```
