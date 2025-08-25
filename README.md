@@ -15,11 +15,11 @@ Programming: Python · Java · C · SQL · HTML/CSS
 
 Frameworks: TensorFlow · PyTorch · Scikit-learn
 
-Vision & HCI: OpenCV · MediaPipe · Vision Transformers
+Vision: OpenCV · MediaPipe · Vision Transformers
 
 NLP & LLMs: Transformers · Hugging Face · RAG
 
-DevOps & CI/CD: Git · AWS · Linux · Flask
+DevOps : Git · AWS · Linux · Flask
 
 🚀 Projects
 🔹 AIRCO — Smart Air Quality Intelligence
