@@ -11,7 +11,7 @@
 
 ```text
 ⚙ Skills
-Programming: Python · Java · C · SQL · HTML/CSS
+Programming: Python  · C · SQL · HTML/CSS
 
 Frameworks: TensorFlow · PyTorch · Scikit-learn
 
