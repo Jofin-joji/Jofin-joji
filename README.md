@@ -11,7 +11,7 @@
 
 ```text
 ⚙ Skills
-Programming: Python  · C · SQL · HTML/CSS
+Programming: Python · C · SQL · HTML/CSS
 
 Frameworks: TensorFlow · PyTorch · Scikit-learn
 
@@ -44,7 +44,7 @@ DevOps : Git · AWS · Linux · Flask
 📜 AWS Certified Cloud Practitioner (2025)
 🎓 Placement Coordinator @ ASIET (2024–Present)
 
-```
+
 
 🤝 Let’s Connect
 🔗 LinkedIn: linkedin.com/in/jofin-joji
